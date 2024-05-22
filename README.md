@@ -2,7 +2,7 @@
 
 Meu nome e Victor Hugo Amais 
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
@@ -10,4 +10,8 @@ Meu nome e Victor Hugo Amais
 
 00001100135303sp@al.educacao.sp.gov.br
 
+victorhugoamais44@gmail.com
+
 @_victor.amais
+
+![](https://media.tenor.com/OrWIV_jmwE0AAAAM/heart-i-love-you.gif)
